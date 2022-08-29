@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Maria Clara.
-- meu email de contato é: maria.guedes.santos@escola.pr.gov.br
+- 1+Meu email de contato é: maria.guedes.santos@escola.pr.gov.br
 - 👀 Tenho interesse em desenho, yaoi e animes.
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - 
